@@ -1,0 +1,112 @@
+1	HTTP
+2	HTML
+3	Port
+4	Cache
+5	Cookies
+6	RAM
+7	ROM
+8	Core
+9	CPU
+10	Processor
+11	Proxy
+12	Memory
+13	CPU Utilization
+14	Memory Utilization
+15	Waterfall 
+16	Agile
+17	FTP
+18	IMAP
+19	Ping
+20	SQL/NoSQL
+21	SMTP
+22	SIM
+23	TCP
+24	TCPIP
+25	URL
+26	URI
+27	USB
+28	VGA
+29	WWW
+30	Wifi
+31	WPA
+32	WLAN
+33	peer to peer protocol
+34	RTP
+35	OOPs
+36	IP Address
+37	Host
+38	Web Hosting
+39	Router
+40	Link
+41	Hyperlink
+42	OS
+43	Reboot
+44	Big DATA
+45	Cloud Computing
+46	Content Management
+47	Cross-Platform
+48	Data Center
+49	Disaster Recovery
+50	DRaaS
+51	Virtualization
+52	GUI
+53	Client
+54	Computer Network
+55	VPN
+56	Protocol
+57	Spam
+58	DDos
+59	authentication
+60	Database
+61	Domain
+62	Ethernet
+63	Firewall
+64	PaaS
+65	IaaS
+66	SaaS
+67	Code Drop
+68	Servers
+69	Servers restart
+70	Response Time
+71	Throughput
+72	ms
+73	Concurrent
+74	Release Calendar
+75	Sprints
+76	Triage
+77	API
+78	FTP
+79	UI
+80	CLIent
+81	Shell
+82	JSON
+83	XML
+84	YAML
+85	90%ile
+86	CSV
+87	Typo
+88	CI/CD 
+89	Pipeline
+90	MQ
+91	On-premises
+92	Docker
+93	Thread States
+94	AUT
+95	BAU
+96	Bug
+97	Connection Pool
+98	Heap Memory
+99	Heap (Java)
+100	JRE
+101	Garbage Collection
+102	Functional Testing
+103	Non Functional Testing
+104	NFT (Non Functional Testing)
+105	QA (Quality Assurance)
+106	SDLC
+107	Opensourse
+108	Freeware
+109	Licenced
+110	Deployment
+111	Thick Client
+112	Thin Client
